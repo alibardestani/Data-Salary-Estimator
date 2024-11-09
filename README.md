@@ -52,11 +52,20 @@ After scraping, I cleaned and prepared the data for modeling, making the followi
 ## EDA
 Examined data distributions and value counts for various categorical variables. Some highlights are shown in the pivot tables below.
 
-![alt text](https://github.com/alibardestani/Data-Salary-Estimator/blob/master/Top-20.jpg)
-![alt text](https://github.com/alibardestani/Data-Salary-Estimator/blob/master/DistributionT.jpg)
-![alt text](https://github.com/alibardestani/Data-Salary-Estimator/blob/master/Distribution.jpg)
-![alt text](https://github.com/alibardestani/Data-Salary-Estimator/blob/master/WordFreq.jpg "Job Description WordCloud")
-![alt text](https://github.com/alibardestani/Data-Salary-Estimator/blob/707199225d5a4234e0e3787217b79a7b8165e46e/corr.jpg "Correlations")
+## Project Visualizations
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+
+<img src="https://github.com/alibardestani/Data-Salary-Estimator/blob/master/Top-20.jpg" alt="Top 20" width="300"/>
+<img src="https://github.com/alibardestani/Data-Salary-Estimator/blob/master/DistributionT.jpg" alt="DistributionT" width="300"/>
+<img src="https://github.com/alibardestani/Data-Salary-Estimator/blob/master/Distribution.jpg" alt="Distribution" width="300"/>
+
+<img src="https://github.com/alibardestani/Data-Salary-Estimator/blob/master/WordFreq.jpg" alt="Job Description WordCloud" width="400" style="display: block; margin: auto;"/>
+
+<img src="https://github.com/alibardestani/Data-Salary-Estimator/blob/707199225d5a4234e0e3787217b79a7b8165e46e/corr.jpg" alt="Correlations" width="300"/>
+
+</div>
+
 
 ## Model Building
 
